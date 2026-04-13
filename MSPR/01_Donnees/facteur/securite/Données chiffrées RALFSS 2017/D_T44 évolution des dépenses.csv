@@ -1,0 +1,21 @@
+;Tableau n° 44 : évolution des dépenses de l’« ONDAM hospitalier » entre 2015 et 2016;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5
+0;;;;;;
+1;;;;;;
+2;;Exécuté 2015;Exécuté 2016;Variation 2016/2015;Variation 2016/2015 ;Variation 2015/2014
+3;;(à périmètre 2016);(en M€);(en M€);(en %);(en %)
+4;;(en M€);;;;
+5;Établissements de santé;76374;77566;1192;1.6;2
+6;Établissements publics et privés non lucratifs (a) + (b) + (c);62550;63704;1155;1.8;2.2
+7;Établissements publics et privés non lucratifs tarifés à l’activité (a);46501;47614;1113;2.4;2.8
+8;MCOO (tarification à l’activité);40424;41239;815;2;2.6
+9;MIGAC;6077;6375;298;4.9;3.9
+10;Dotations annuelles de financement (SSR) (b);15054;15091;38;0.3;0.4
+11;Unités de soins de longue durée (PSY) (c);995;999;4;0.4;-0.1
+12;Établissements privés lucratifs;13382;13628;246;1.8;0.3
+13;(d) + (e);;;;;
+14;Établissements privés lucratifs tarifés à l’activité (d);10477;10687;210;2;-
+15;MCOO (tarification à l’activité);10381;10564;183;1.8;-0.2
+16;MIGAC;96;123;27;28.1;41.5
+17;Soins psychiatriques (PSY) et de suite et de réadaptation (SSR) (e);2904;2941;37;1.3;1.2
+18;Dotations non régulées;200;232;;;
+19;FMESPP;243;2;-241;-99.2;123.6

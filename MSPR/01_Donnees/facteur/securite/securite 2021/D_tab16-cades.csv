@@ -1,0 +1,43 @@
+﻿;évolution de la dette sociale portée par la Cades et par l’Acoss (2017-2021, en Md€);;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;2017;2018;2019;2020;2021 (p);;;;;;;
+;Situation nette négative CADES ;120.8;105.4;89.1;93;116;;;;;;;
+;Cumul déficits non repris par la Cades (branches maladie, vieillesse, autonomie et FSV) et maintenus à l’Acoss;20.9;22.7;25.6;47.6;52.6;;;;;;;
+;Total dette sociales (déficits non amortis);141.6;128.1;114.7;140.6;168.6;;;;;;;
+;Endettement financier net de l’ACOSS pour les branches du RG;24.9;18.7;21.2;51;;;;;;;;
+;;;;;;;;;;;;;
+;"Source : Cour des comptes d’après les comptes des exercices 2017 à 2020, les prévisions de
+solde du rapport CCSS de juin 2021, les décrets n° 020-1074 du 19 août 2020 et n°2021-40 du
+19 janvier 2021 et l’objectif d’amortissement par la Cades fixé par la LFSS 2021";;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;Calcul de Nicolas F :;;;;;;;;;;;;
+;-          Pour la situation nette CADES 2020 : amortissement de 16,1 Md€ et prélèvement de 20 Md€ => dégradation de la situation nette de 20-16,1 = 3,9 Md€ à 93,0 Md€ (la CCSS disait -93,1 mais résultat un peu meilleur qu’attendu).;;;;;;;;;;;;
+;-          Déficit 2020 maladie, vieillesse, famille et FSV du RG hors AT-MP de -38,4 Md€ en 2020 (-48,6 prévu en LFSS). Reprise par la CADES de 16,4 Md€ en 2020 pour le RG. Le cumul à fin 2020 est donc de 25,6+38,4-16,4 = 47,6. Check sur 2019 : le déficit cumulé hors AT-MP atteint -2,9. On retombe bien sur 25,6.;;;;;;;;;;;;
+;-          Pour EFN ACOSS 2020, chiffre dans les comptes 2020 de l’ACOSS, p 98, cohérent avec le chiffre 2019.;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;Md€;2009;2010;2011;2012;2013;2014;2015.0;2016.0;2017.0;2018.0;2019.0;2020.0
+;Dette nette;-76.3;-96;-111.2;-116.2;-118;-121.3;-120.8;-118.0;-102.9;-86.8;-74.6;
+;Résultat consolidé;-19.6;-23.9;-10.7;-5.9;-1.6;1.4;4.7;8.1;12.6;14.9;15.4;
+;Solde moyen de tréso ACOSS;;;;-8.1;-19;-22.2;-26.4;-19.9;-19.1;-18.2;-18.9;-42.5
+;;;;;;;;;;;;;
+;Situation nette négative CADES;91.8;86.7;142.8;137.5;137.7;130.2;126.7;135.8;120.8;105.4;89.1;93.0
+;;;;;;;;;;;;;
+;Tableau LFSS : Evolution sur le périmètre régimes de base, FSV, CADES et FRR (deux premières lignes);;;;;;;;;;;;
+;Troisième ligne, soldes ACOSS selon CCSS 2020 (besoin de financement du seul régime général) et P01 ACOSS p 38 pour 2020.;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;(M€);Branche maladie;Branche famille;Branche vieillesse;FSV;CNRACL;TOTAL;;;;;;
+;Couverture déficit à fin 2019;6 143  ;;;3 737;1294;11174;;;;;;
+;Couverture partielle déficit 2020;18 646;430;1 626;3124;;23826;;;;;;
+;Couverture emprunts hôpitaux publics à fin 2019;5000;;;;;5000;;;;;;
+;TOTAL;29789;430;1626;6861;1294;40000;;;;;;

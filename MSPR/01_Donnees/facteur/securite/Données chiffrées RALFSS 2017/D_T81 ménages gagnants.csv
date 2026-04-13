@@ -1,0 +1,46 @@
+;Tableau n° 81 : ménages gagnants et perdants selon la configuration familiale et le quintile de niveau de vie initial après montée en charge des réformes;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5;Unnamed: 6;Unnamed: 7
+0;;;;;;;;
+1;Isolé;Nombre de ménages;Nombre de ménages gagnants;En % du quintile;Gain mensuel moyen;Nombre de ménages perdants;En % du quintile;Perte mensuelle moyenne
+2;1 enfant ;(en milliers);(en milliers);;(en €);(en milliers);;(en €)
+3;Q1;378;327;86;96;30;8;-33
+4;Q2;406;299;74;73;51;13;-25
+5;Q3;266;119;45;38;50;19;-32
+6;Q4;190;22;11;40;52;27;-31
+7;Q5;140;13;10;47;48;35;-105
+8;Ensemble;1379;779;56;76;231;17;-46
+9;;;;;;;;
+10;Isolé;Nombre de ménages;Nombre de ménages gagnants;En % du quintile;Gain mensuel moyen;Nombre de ménages perdants;En % du quintile;Perte mensuelle moyenne
+11;2 enfants et +;(en milliers);(en milliers);;(en €);(en milliers);;(en €)
+12;Q1;392;376;96;162;13;3;-32
+13;Q2;249;219;88;93;22;9;-32
+14;Q3;135;101;75;59;16;12;-43
+15;Q4;75;22;29;59;24;32;-63
+16;Q5;56;4;7;59;40;71;-158
+17;Ensemble;908;722;80;123;115;13;-83
+18;;;;;;;;
+19;Couple;Nombre de ménages;Nombre de ménages gagnants;En % du quintile;Gain mensuel moyen;Nombre de ménages perdants;En % du quintile;Perte mensuelle moyenne
+20;1 enfant;(en milliers);(en milliers);;(en €);(en milliers);;(en €)
+21;Q1;381;190;50;103;155;41;-36
+22;Q2;455;149;33;44;246;54;-35
+23;Q3;635;81;13;37;408;64;-33
+24;Q4;741;39;5;45;379;51;-48
+25;Q5;673;26;4;57;437;65;-74
+26;Ensemble;2885;484;17;67;1625;56;-48
+27;;;;;;;;
+28;Couple;Nombre de ménages;Nombre de ménages gagnants;En % du quintile;Gain mensuel moyen;Nombre de ménages perdants;En % du quintile;Perte mensuelle moyenne
+29;2 enfants;(en milliers);(en milliers);;(en €);(en milliers);;(en €)
+30;Q1;472;267;56;77;199;42;-35
+31;Q2;570;253;44;36;278;49;-30
+32;Q3;749;146;19;24;415;55;-28
+33;Q4;751;27;4;47;354;47;-50
+34;Q5;671;9;1;54;580;86;-177
+35;Ensemble;3213;701;22;50;1826;57;-80
+36;;;;;;;;
+37;Couple;Nombre de ménages;Nombre de ménages gagnants;En % du quintile;Gain mensuel moyen;Nombre de ménages perdants;En % du quintile;Perte mensuelle moyenne
+38;3 enfants et +;(en milliers);(en milliers);;(en €);(en milliers);;(en €)
+39;Q1;457;333;73;131;121;27;-28
+40;Q2;360;199;55;42;156;43;-31
+41;Q3;293;170;58;41;95;32;-28
+42;Q4;229;41;18;34;100;44;-68
+43;Q5;217;3;1;59;185;85;-438
+44;Ensemble;1556;746;48;81;656;42;-150

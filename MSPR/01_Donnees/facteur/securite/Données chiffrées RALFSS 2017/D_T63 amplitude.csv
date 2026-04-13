@@ -1,0 +1,15 @@
+;Tableau n° 63 : amplitude des taux de recours départementaux;Unnamed: 1;Unnamed: 2;Unnamed: 3;Unnamed: 4;Unnamed: 5
+0;pour dix gestes chirurgicaux en 2015 (pour 1 000 habitants);;;;;
+1;;;;;;
+2;Geste chirurgical;Départements présentant le taux de recours le plus faible;;Départements présentant le taux de recours le plus élevé;;Rapport
+3;;Département;Taux;Département;Taux;
+4;Chirurgie bariatrique;Puy-de-Dôme;0.24;Oise;1.39;5.8
+5;Amygdalectomie;Hautes-Pyrénées;0.38;Gironde;1.53;4
+6;Chirurgie des varices;Creuse;1;Lozère;3;3
+7;Prothèse de hanche;Haute-Corse;0.85;Somme;2.02;2.4
+8;Thyroïdectomie;Eure-et Loir;0.47;Indre;1.11;2.4
+9;Prothèse du genou;Paris;0.95;Bas-Rhin;2.22;2.3
+10;Chirurgie pour hypertrophie bénigne de la prostate;Gard;0.73;Allier;1.56;2.1
+11;Cholécystectomie;Paris;1.19;Haute-Saône;2.23;1.9
+12;Hystérectomie;Pyrénées Orientales;0.71;Savoie;1.3;1.8
+13;Chirurgie du canal carpien;La Réunion;0.49;Yonne;3.49;7.1
